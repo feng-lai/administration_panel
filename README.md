@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README-jp.md) | [العربية](README-ar.md) | [Português](README-pt.md) | [Español](README-es.md)
+
 # **Application Introduction**
 
 This document provides an overview of the web application, highlighting its key features and a general guide for deployment.
